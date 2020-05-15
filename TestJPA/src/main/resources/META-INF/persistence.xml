@@ -7,6 +7,7 @@
         <class>org.edwintumax.test.models.Horario</class>
         <class>org.edwintumax.test.models.Instructor</class>
         <class>org.edwintumax.test.models.Clase</class>
+        <class>org.edwintumax.test.models.Alumno</class>
         <properties>
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/kalum_notas_test?useSSL=false&amp; useTimezone=true&amp;serverTimezone=UTC"/>
             <property name="javax.persistence.jdbc.user" value="root"/>
